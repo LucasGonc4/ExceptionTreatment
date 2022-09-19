@@ -1,0 +1,15 @@
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\bin\Debug\net6.0\TreatmentExceptions.exe
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\bin\Debug\net6.0\TreatmentExceptions.deps.json
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\bin\Debug\net6.0\TreatmentExceptions.runtimeconfig.json
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\bin\Debug\net6.0\TreatmentExceptions.dll
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\bin\Debug\net6.0\TreatmentExceptions.pdb
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\obj\Debug\net6.0\TreatmentExceptions.csproj.AssemblyReference.cache
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\obj\Debug\net6.0\TreatmentExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\obj\Debug\net6.0\TreatmentExceptions.AssemblyInfoInputs.cache
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\obj\Debug\net6.0\TreatmentExceptions.AssemblyInfo.cs
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\obj\Debug\net6.0\TreatmentExceptions.csproj.CoreCompileInputs.cache
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\obj\Debug\net6.0\TreatmentExceptions.dll
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\obj\Debug\net6.0\refint\TreatmentExceptions.dll
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\obj\Debug\net6.0\TreatmentExceptions.pdb
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\obj\Debug\net6.0\TreatmentExceptions.genruntimeconfig.cache
+C:\Users\luqui\source\repos\Exceptions treatment\TreatmentExceptions\TreatmentExceptions\obj\Debug\net6.0\ref\TreatmentExceptions.dll
