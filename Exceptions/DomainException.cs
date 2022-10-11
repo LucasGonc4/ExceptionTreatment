@@ -12,7 +12,6 @@ namespace TreatmentExceptions.Exceptions
 
         public DomainException(string message) : base(message)
         {
-
         }
     }
 }

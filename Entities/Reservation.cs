@@ -28,7 +28,7 @@ internal class Reservation
             NumberRoom = numberRoom;
             CheckIn = checkIn;
             CheckOut = checkOut;
-        }
+        } 
     }
 
     public int Duration()
